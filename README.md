@@ -39,7 +39,7 @@ https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 http://bolly360.xyz:80/zee.php?c=ztvhdusa
 #EXTINF:-1 ch-id="ZEE TV HD (IND)1"  tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=zeetvhd
-#EXTINF:-1 ch-id="ZEE TV (APAC)1"  tvg-logo="https://i.pinimg.com/originals/4a/d3/62/4ad362abea44922e6b7221856f774d3d.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(APAC)1
+#EXTINF:-1 ch-id="ZEE TV (APAC)1"  tvg-logo="https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(APAC)1
 http://bolly360.xyz:80/zee.php?c=apacsea
-#EXTINF:-1 ch-id="ZEE TV (UK)1" tvg-logo="https://www.exchange4media.com/news-photo/1508122527_OJuLfs_zee.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
+#EXTINF:-1 ch-id="ZEE TV (UK)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
 http://bolly360.xyz:80/zee.php?c=zeetvsduk
