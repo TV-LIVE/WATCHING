@@ -43,3 +43,7 @@ http://bolly360.xyz:80/zee.php?c=zeetvhd
 http://bolly360.xyz:80/zee.php?c=apacsea
 #EXTINF:-1 ch-id="ZEE TV (UK)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
 http://bolly360.xyz:80/zee.php?c=zeetvsduk
+#EXTINF:-1 ch-id="ZEE TV (CA)1" tvg-logo="http://shaw.tmsimg.com/assets/s79632_ll_h3_ac.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(CANADA)1
+http://bolly360.xyz:80/zee.php?c=canadahd
+#EXTINF:-1 ch-id="AND TV HD (IND)1" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://45.120.188.76:8080/0.ts
