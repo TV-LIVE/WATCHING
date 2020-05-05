@@ -11,3 +11,5 @@ http://bolly360.xyz:80/zee.php?c=zeebusiness
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 ch-id="ZOOM-1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="MUSIC / YOUTH CHANNELS",(IND)
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
+#EXTINF:-1 ch-id="B4U MUSIC-1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="MUSIC / YOUTH CHANNELS",(IND)
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
