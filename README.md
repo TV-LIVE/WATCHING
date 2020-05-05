@@ -31,3 +31,7 @@ http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/index.m3u8
 #EXTINF:-1 ch-id="STAR WORLD HD-1"  tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(ME)1
 http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="FILMY-1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sahara-filmi-tv-logo.svg/800px-Sahara-filmi-tv-logo.svg.png"group-title=" ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+#EXTINF:-1 ch-id="TIMES NOW-1"  tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="NEWS / BUSINESS CHANNELS",(IND)1
+https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
