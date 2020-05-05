@@ -35,3 +35,5 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/index.m3u8?fluxustv.m3u8
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 ch-id="TIMES NOW-1"  tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="NEWS / BUSINESS CHANNELS",(IND)1
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
+#EXTINF:-1 ch-id="ZEE TV HD-1"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(USA)1
+http://bolly360.xyz:80/zee.php?c=ztvhdusa
