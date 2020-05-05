@@ -23,3 +23,7 @@ http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 http://bolly360.xyz:80/zee.php?c=zingusa
 #EXTINF:-1 ch-id="ZING-2"  tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)2
 http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
+#EXTINF:-1 ch-id="B4U PLUS-1"  tvg-logo="https://i.imgur.com/KnpCnyh.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(ME)1
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 ch-id="MBC BOLLYWOOD-1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/MBC_BOLLYWOOD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",MBC BOLLYWOOD (ME)1
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_bolly/index.m3u8
