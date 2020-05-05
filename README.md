@@ -37,5 +37,5 @@ https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 https://m-c20-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
 #EXTINF:-1 ch-id="ZEE TV HD-1"  tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_446/ic_logo_zee_TV_HD_1.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(USA)1
 http://bolly360.xyz:80/zee.php?c=ztvhdusa
-#EXTINF:-1 ch-id="ZEE TV HD-2"  tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2
+#EXTINF:-1 ch-id="ZEE TV HD-1"  tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=zeetvhd
