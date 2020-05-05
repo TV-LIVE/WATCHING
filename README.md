@@ -47,5 +47,5 @@ http://bolly360.xyz:80/zee.php?c=zeetvsduk
 http://bolly360.xyz:80/zee.php?c=canadahd
 #EXTINF:-1 ch-id="AND TV HD (IND)1" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 http://45.120.188.76:8080/0.ts
-#EXTINF:-1 ch-id="COLORS TV (APAC)1" tvg-logo="https://www.easterneye.biz/wp-content/uploads/2018/05/ACTV.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(APAC)1
+#EXTINF:-1 ch-id="COLORS TV (APAC)1" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2018/01/Colors-TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(APAC)1
 http://103.111.120.46/hls/Colors.m3u8
