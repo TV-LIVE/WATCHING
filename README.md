@@ -19,3 +19,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf6246
 #EXTINF:-1 ch-id="SONY MIX-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
+#EXTINF:-1 ch-id="ZING-1"  tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-zing/list/zing_582493460.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)
+http://bolly360.xyz:80/zee.php?c=zingusa
+#EXTINF:-1 ch-id="ZING-2"  tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg"group-title="MUSIC / YOUTH CHANNELS",(IND)
+http://livecdnh1.tvanywhere.ae/hls/zing/02.m3u8
