@@ -17,7 +17,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 ch-id="SONY MIX (IND)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf6246
-#EXTINF:-1 ch-id="SONY MIX (IND)2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)2
+#EXTINF:-1 ch-id="SONY MIX VPN (IND)2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="MUSIC / YOUTH CHANNELS",VPN (IND)2
 http://216.144.250.174/Sony_Mix_HD/playlist.m3u8
 #EXTINF:-1 ch-id="ZING (IND)1"  tvg-logo="https://pbs.twimg.com/profile_images/1031870066504003584/rs8Z6JhY_400x400.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=zingusa
