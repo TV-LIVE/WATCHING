@@ -13,3 +13,5 @@ https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
 #EXTINF:-1 ch-id="B4U MUSIC-1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="MUSIC / YOUTH CHANNELS",(IND)
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1 ch-id="MUSIC INDIA-1"  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" group-title="MUSIC / YOUTH CHANNELS",(IND)
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
