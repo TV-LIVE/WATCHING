@@ -9,3 +9,5 @@ https://m-c08-j2apps.s.llnwi.net/hls/2144.CVREnglishNews.in.m3u8
 http://bolly360.xyz:80/zee.php?c=zeebusiness
 #EXTINF:-1 ch-id="NEWS18 ASSAM-1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="NEWS / BUSINESS CHANNELS",(IND)
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
+#EXTINF:-1 ch-id="ZOOM-1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png" group-title="MUSIC / YOUTH CHANNELS",(IND)
+http://livecdnh1.tvanywhere.ae/hls/zoom/01.m3u8
