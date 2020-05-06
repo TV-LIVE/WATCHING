@@ -59,7 +59,7 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)1" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="ADULT CHANNELS",(INT)1
 http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 ch-id="SUPER ONE HD (INT)1"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
+#EXTINF:-1 ch-id="SUPER ONE HD (INT)1"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",(INT)1
 http://188.35.9.5:10007/stolen/246r/parasite.install
 #EXTINF:-1 ch-id="ZEE LIVING (USA)1" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png" group-title="LIFESTYLE / TRAVELING CHANNELS",(USA)1
 http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
@@ -67,13 +67,13 @@ http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
 http://bolly360.xyz:80/zee.php?c=wion
 #EXTINF:-1 ch-id="LIVING FOODZ (IN)1"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ad/LF_logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=livingfoodz
-#EXTINF:-1 ch-id="ZEE ETC (IN)1"  tvg-logo="http://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png" group-title="MUSIC / YOUTH CHANNELS",ZEE ETC (IN)
+#EXTINF:-1 ch-id="ZEE ETC (IN)1"  tvg-logo="http://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_etc_bollywood.png" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=etc
-#EXTINF:-1 ch-id="9X JALWA (IN)1"  tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg" group-title="MUSIC / YOUTH CHANNELS",9X JALWA (IN)
+#EXTINF:-1 ch-id="9X JALWA (IN)1"  tvg-logo="https://www.exchange4media.com/news-photo/1530525962_xUFdBo_9X-Jalwa.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=9xjalwa
-#EXTINF:-1 ch-id="ZEE NEWS (IN)1"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg" group-title="NEWS / BUSINESS CHANNELS",ZEE NEWS (IN)
+#EXTINF:-1 ch-id="ZEE NEWS (IN)1"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/01/04/773839-zee-news-logo.jpg" group-title="NEWS / BUSINESS CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=zeenews
-#EXTINF:-1 ch-id="9XM (IN)1"  tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg" group-title="MUSIC / YOUTH CHANNELS",9XM (IND)
+#EXTINF:-1 ch-id="9XM (IN)1"  tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=9xm
 #EXTINF:-1 ch-id="THE Q INDIA (IN)1"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
 http://bolly360.xyz:80/zee.php?c=theqyou
