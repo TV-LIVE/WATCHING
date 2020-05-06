@@ -77,3 +77,15 @@ http://bolly360.xyz:80/zee.php?c=zeenews
 http://bolly360.xyz:80/zee.php?c=9xm
 #EXTINF:-1 ch-id="THE Q INDIA (IN)1"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=theqyou
+#EXTINF:-1 ch-id="DD BHARATI (IND)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/DD_Bharati_2018.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c 
+#EXTINF:-1 ch-id="ZEE WORLD (SA)1"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/Zee_World_Extraordinary._Everyday..jpg "group-title="ENTERTAINMENT / MOVIES CHANNELS",(ZA)1
+http://bolly360.xyz:80/zee.php?c=world
+#EXTINF:-1 ch-id="VH1 (USA)1"  tvg-logo="https://mms.businesswire.com/media/20180301006441/en/643788/22/2017VH1.jpg" group-title="MUSIC / YOUTH CHANNELS",(USA)1
+http://185.59.223.82:8080/vh1/mpegts
+#EXTINF:-1 ch-id="MTV (USA)1"  tvg-logo="https://media.graytvinc.com/images/810*455/MTV-logo_720.jpg" group-title="MUSIC / YOUTH CHANNELS",(USA)1
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ch-id="9XO (IND)1" tvg-logo="https://www.adgully.com/img/800/50287_9xo.jpg"group-title="MUSIC / YOUTH CHANNELS",(IND)1
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
+#EXTINF:-1 ch-id="BABY FIRST (ASIA)1" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="KIDS CHANNELS",(ASIA)1
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
