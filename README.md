@@ -49,3 +49,7 @@ http://bolly360.xyz:80/zee.php?c=canadahd
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1 ch-id="COLORS TV (APAC)1" tvg-logo="https://in.bookmyshow.com/entertainment-news/wp-content/uploads/2018/01/Colors-TV.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(APAC)1
 http://103.111.120.46/hls/Colors.m3u8
+#EXTINF:-1 ch-id="MULTIPLEX (IN)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/multiplex-tv-channel-logo-300x300.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in.m3u8 
+#EXTINF:-1 ch-id="CARTOON NATWORK (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="KIDS CHANNELS",(IND)1
+http://stream.tapmad.com:1935/pitvlive2/cartoon_240p/chunklist.m3u8
