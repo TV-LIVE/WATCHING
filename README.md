@@ -89,3 +89,7 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/index.m3u8
 #EXTINF:-1 ch-id="BABY FIRST (ASIA)1" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" group-title="KIDS CHANNELS",(ASIA)1
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 ch-id="BOOMERANG HD (ME)1" tvg-logo="https://user-images.githubusercontent.com/14023349/71199642-ae201b80-2296-11ea-9b71-77a5dafc4881.png" group-title="KIDS CHANNELS",(ME)1
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ch-id="BBC NEWS (UK)1" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="NEWS / BUSINESS CHANNELS",(UK)1
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
