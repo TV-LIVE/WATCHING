@@ -75,5 +75,5 @@ http://bolly360.xyz:80/zee.php?c=9xjalwa
 http://bolly360.xyz:80/zee.php?c=zeenews
 #EXTINF:-1 ch-id="9XM (IN)1"  tvg-logo="https://cdn.clipart.email/47528cb00781591f081afb045e0f3981_funmania_1600-929.jpeg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=9xm
-#EXTINF:-1 ch-id="THE Q INDIA (IN)1"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="MUSIC / YOUTH CHANNELS",THE Q INDIA (IN)
+#EXTINF:-1 ch-id="THE Q INDIA (IN)1"  tvg-logo="https://www.rapidtvnews.com/images/2019/Aug_2019/The_Q_India_logo_-_7_August_2019.png" group-title="MUSIC / YOUTH CHANNELS",(IND)1
 http://bolly360.xyz:80/zee.php?c=theqyou
