@@ -93,3 +93,9 @@ http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 ch-id="BBC NEWS (UK)1" tvg-logo="https://www.apmdistribution.org/news/bbc/tools/images/logos/2019-bbc-news-linear-world-service-rgb.png" group-title="NEWS / BUSINESS CHANNELS",(UK)1
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
+#EXTINF:-1 ch-id="NDTV24X7 (IN)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/800px-NDTV_247.svg.png" group-title="NEWS / BUSINESS CHANNELS",(IND)1
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1 ch-id="CGTN (UK)1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cgtn.png"group-title="NEWS / BUSINESS CHANNELS",(UK)1
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 ch-id="NDTV INDIA (IN)1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png"group-title="NEWS / BUSINESS CHANNELS",(IND)1
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
