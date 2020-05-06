@@ -59,3 +59,11 @@ http://x-bosna.no-ip.biz/live.ts?channelId=148&deviceUser=MamaTata&devicePass=hw
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 ch-id="PORNSTAR (INT)1" tvg-logo="https://i1.sndcdn.com/avatars-000424266405-cgh5rx-t500x500.jpg" group-title="ADULT CHANNELS",(INT)1
 http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 ch-id="SUPER ONE HD (INT)1"  tvg-logo="https://mar-vik.si/uploads/logotipi/SUPERONE.png"group-title="ADULT CHANNELS",SUPER ONE HD (INT)
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1 ch-id="ZEE LIVING (USA)1" tvg-logo="https://www.zeeinternational.co.in/wp-content/uploads/2018/02/Zee-Living.png" group-title="LIFESTYLE / TRAVELING CHANNELS",(USA)1
+http://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ch-id="WION (IN)1"  tvg-logo="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/04/25/675807-wion-1.jpg"group-title="NEWS / BUSINESS CHANNELS",(INT)1
+http://bolly360.xyz:80/zee.php?c=wion
+#EXTINF:-1 ch-id="LIVING FOODZ (IN)1"  tvg-logo="http://www.bestmediainfo.com/wp-content/uploads/2015/09/Living-Foodz-logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",(IND)1
+http://bolly360.xyz:80/zee.php?c=livingfoodz
