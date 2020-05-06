@@ -99,3 +99,5 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7mast
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 ch-id="NDTV INDIA (IN)1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png"group-title="NEWS / BUSINESS CHANNELS",(IND)1
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+#EXTINF:-1 ch-id="NHK WORLD (JP)1" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="NEWS / BUSINESS CHANNELS",(JP)1
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
