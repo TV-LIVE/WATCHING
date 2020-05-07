@@ -115,5 +115,7 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b130
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 ch-id="DD NEWS (IN)2"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/DD_News_2015.jpg" group-title="NEWS / BUSINESS CHANNELS",(IND)2
 https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
-#EXTINF:-1 ch-id="DD NATIONAL (IN)2"  tvg-logo="https://files.prokerala.com/news/photos/imgs/1024/doordarshan-logo-774942.jpg"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2
+#EXTINF:-1 ch-id="DD NATIONAL (IN)1"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
+#EXTINF:-1 ch-id="DD NATIONAL (IN)2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
