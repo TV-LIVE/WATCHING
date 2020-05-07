@@ -119,3 +119,9 @@ https://m-c20-j2apps.s.llnwi.net/hls/0182.DDNews.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL (IN)2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/DD_National_2017.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="NAT GEO (CHINA)1" tvg-logo="https://i.pinimg.com/originals/a6/77/d1/a677d1e8794db3ac9982972744414f0c.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",(CHINA)1
+https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
+#EXTINF:-1 ch-id="CGTN DOCUMENTARY (ASIA)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="NEWS / BUSINESS CHANNELS",(ASIA)1
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 ch-id="MGM (UK)1" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
