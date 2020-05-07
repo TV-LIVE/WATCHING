@@ -101,3 +101,15 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:-1 ch-id="NHK WORLD (JP)1" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/b5/NHK_World_%282015-.n.v.%29.png" group-title="NEWS / BUSINESS CHANNELS",(JP)1
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 ch-id="DD NEWS (IN)1" tvg-logo="  group-title="NEWS / BUSINESS CHANNELS",(IND)1
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+#EXTINF:-1 ch-id="EUROSPORT (IN)1" tvg-logo="https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/A1F83G8C2ARO7P/a1e0cde47058b02b1e400663817af00f.w1961.h470.jpg"  group-title="SPORTS CHANNELS",(IND)1
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_400.m3u8
+#EXTINF:-1 ch-id="SPORTS MAX (ME)1" tvg-logo="https://www.nationnews.com/IMG/865/77865/sportsmax-logo2402-450x303.gif" group-title="SPORTS CHANNELS",(ME)1
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 ch-id="HISTORY2 (ME)1" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s500/History+2+logo+2011.png" group-title="INFORMATION / WILDLIFE CHANNELS",HISTORY2 (ME)1
+http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:-1 ch-id="FOOD FOOD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Food_Food.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",(IND)1
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ch-id="FASHION TV (PARIS)1" tvg-logo="https://identity-mag.com/wp-content/uploads/2015/06/ftv-logo.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",(PARIS)1
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
