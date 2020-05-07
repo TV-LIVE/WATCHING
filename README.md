@@ -125,3 +125,7 @@ https://cdn.jp.jpnettv.live/jptv/National_geographic/chunklist_w1310243407.m3u8
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 ch-id="MGM (UK)1" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 ch-id="ABP NEW HD (IN)"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS / BUSINESS CHANNELS",ABP NEWS HD (IN)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:-1 ch-id="Zee TV HD (IN)" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",ZEE TV HD (IN) VPN
+http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
