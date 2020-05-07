@@ -131,3 +131,5 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 ch-id="NAT GEO (ME)1" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",(ME)1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
+#EXTINF:-1 ch-id="SONY TV HD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
+http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
