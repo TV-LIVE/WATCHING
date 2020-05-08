@@ -138,4 +138,6 @@ http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="ZEE ACTION (IND)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
 http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 #EXTINF:-1 ch-id="STAR GOLD HD (IND)1 VPN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
-http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1.m3u8
+#EXTINF:-1 ch-id="DD NATIONAL HD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
