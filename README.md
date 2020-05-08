@@ -131,3 +131,5 @@ http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
 #EXTINF:-1 ch-id="SONY TV HD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
+#EXTINF:-1 ch-id="SONY SAB (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
