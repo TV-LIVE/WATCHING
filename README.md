@@ -135,3 +135,7 @@ http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
 #EXTINF:-1 ch-id="STAR PLUS (UK)1 VPN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1 VPN
 http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="ZEE ACTION (IND)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
+http://216.144.250.174/Zee_ActIon_HD/index.m3u8
+#EXTINF:-1 ch-id="STAR GOLD HD (IND)1 VPN" tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
+http://216.144.250.174/Star_G0ld_HD/tracks-v1a1/mono.m3u8
