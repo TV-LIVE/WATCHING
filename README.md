@@ -125,11 +125,13 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 ch-id="ABP NEW HD (IN)1"  tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/1d948f60a6c82a0f.jpg" group-title="NEWS / BUSINESS CHANNELS",(IND)1
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-#EXTINF:-1 ch-id="Zee TV HD (IN)2" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2 VPN
+#EXTINF:-1 ch-id="Zee TV HD (IN)2 VPN" tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)2 VPN
 http://216.144.250.174/Zee_TV_HD_o1/playlist.m3u8
 #EXTINF:-1 ch-id="NAT GEO (ME)1" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg" group-title="INFORMATION / WILDLIFE CHANNELS",(ME)1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
-#EXTINF:-1 ch-id="SONY TV HD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
+#EXTINF:-1 ch-id="SONY TV HD (IN)1 VPN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/44/SET_HD_2016.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1 VPN
 http://216.144.250.174/Sony_TV_HD_02/playlist.m3u8
 #EXTINF:-1 ch-id="SONY SAB (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Sony_Sab.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:-1 ch-id="STAR PLUS (UK)1 VPN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/StarPlus.png" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1 VPN
+http://216.144.250.174/Star_Plus_HD_India/tracks-v1a1/mono.m3u8
