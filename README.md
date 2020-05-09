@@ -169,3 +169,5 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 #EXTINF:-1 ch-id="ANIMAL PLANET HD (RU)1"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png" group-title="INFORMATION / WILDLIFE CHANNELS",(RUS)1
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ch-id="MGM (UK)2" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
