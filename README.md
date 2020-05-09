@@ -159,11 +159,13 @@ http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
 http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
 #EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)1"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png" group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
 http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
-#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)1"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png" group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)1"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png"  group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
 #EXTINF:-1 ch-id="TLC HD (IN)1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png" group-title="LIFESTYLE / TRAVELING CHANNELS",(IND)1
 http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
 #EXTINF:-1 ch-id="NAT GEO PEOPLE (ME)1"  tvg-logo="https://banner2.cleanpng.com/20180409/jte/kisspng-nat-geo-people-national-geographic-television-chan-eslimi-5acbd9458a35c9.8843066715233088695661.jpg" group-title="LIFESTYLE / TRAVELING CHANNELS",(ME)1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/01.m3u8
-#EXTINF:-1 ch-id="NAT GEO WILD (ME)1"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png"  group-title="INFORMATION / WILDLIFE CHANNELS",(ME)1
+#EXTINF:-1 ch-id="NAT GEO WILD (ME)1"  tvg-logo="https://media.nationalgeographic.org/assets/photos/107/922/51310b53-3ebc-4b17-8bf4-b153c5d42e28_c278-0-2271-1246_r800x500.png" group-title="INFORMATION / WILDLIFE CHANNELS",(ME)1
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (RU)1"  tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png" group-title="INFORMATION / WILDLIFE CHANNELS",(RUS)1
+http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
