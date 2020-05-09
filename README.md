@@ -141,3 +141,5 @@ http://216.144.250.174/Zee_ActIon_HD/index.m3u8
 http://216.144.250.174/Star_G0ld_HD/tracks-v1a1.m3u8
 #EXTINF:-1 ch-id="DD NATIONAL HD (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/DD_National_HD.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
 http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+#EXTINF:-1 ch-id="BOLLYWOOD HD (RUS)1" tvg-logo="https://www.pasjatv.pl/files/BollywooD-HD%20NEW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(RUS)1
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
