@@ -143,3 +143,9 @@ http://216.144.250.174/Star_G0ld_HD/tracks-v1a1.m3u8
 http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
 #EXTINF:-1 ch-id="BOLLYWOOD HD (RUS)1" tvg-logo="https://www.pasjatv.pl/files/BollywooD-HD%20NEW.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(RUS)1
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 ch-id="B4U KADAK (IN)1" tvg-logo="https://businessfortnight.com/wp-content/uploads/2019/08/B4U_Kadak.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="B4U MOVIES (IN)1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png"group-title="ENTERTAINMENT / MOVIES CHANNELS",(IND)1
+http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="NTV MOVIES (UK)1" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
+http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
