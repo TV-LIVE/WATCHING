@@ -149,3 +149,19 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 ch-id="NTV MOVIES (UK)1" tvg-logo="https://pbs.twimg.com/profile_images/1041178171117264898/5pGfFugz_400x400.jpg"group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
 http://cdn14.live247stream.com/navroz/ls/navroz/stream1/chunks.m3u8
+#EXTINF:-1 ch-id="MASTIII (IN)1" tvg-logo="http://www.mastiii.com/images/mastiii-logo-mew.png"group-title="MUSIC / YOUTH CHANNELS",(IND)1
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 ch-id="DISCOVERY (IN)1"  tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo.png"group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY KIDS (IN)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/800px-2016_Discovery_Kids_logo.svg.png"group-title="KIDS CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in//live//DiscoveryKidsHindi-a//p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY TURBO (IN)1" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png"group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in//live//TurboEng-a//p1.m3u8
+#EXTINF:-1 ch-id="DISCOVERY SCIENCE (IN)1"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/554_300.png"group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="ANIMAL PLANET HD (IN)1"  tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png"group-title="INFORMATION / WILDLIFE CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in/live/APHDHindi-a/p1.m3u8
+#EXTINF:-1 ch-id="TLC HD (IN)1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1200px-TLC-HD-Logo_2016.svg.png"group-title="LIFESTYLE / TRAVELING CHANNELS",(IND)1
+http://streamidvo.multitvsolution.in//live//TLCHDHindi-a//p1.m3u8
+#EXTINF:-1 ch-id="NAT GEO (ME)1" tvg-logo="http://pluspng.com/img-png/national-geographic-logo-png--1900.jpg"group-title="INFORMATION / WILDLIFE CHANNELS",(ME)1
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/01.m3u8
