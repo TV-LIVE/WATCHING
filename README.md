@@ -171,5 +171,5 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/01.m3u8
 http://178.217.72.66/225.201.2.33/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ch-id="MGM (UK)2" tvg-logo="https://i.pinimg.com/474x/4c/6b/cb/4c6bcbb336cc88924de812efdc15080c.jpg" group-title="ENTERTAINMENT / MOVIES CHANNELS",(UK)1
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
-#EXTINF:-1 ch-id="SONY MIX (IN)1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sony_Mix.jpg" group-title="MUSIC / YOUTH CHANNELS",(IND)1
-https://sony247channels.akamaized.net/hls/live/2011739/SonyMixSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97
+#EXTINF:-1 ch-id="STAR GOLD (ME)1" tvg-logo="https://thelivenagpur.com/wp-content/uploads/2020/03/SG-Black-Text-SD-Logo-1.png"  group-title="ENTERTAINMENT / MOVIES CHANNELS",(ME)1
+http://137.59.155.253:8088/hls/Star_Gold.m3u8
